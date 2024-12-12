@@ -139,8 +139,11 @@ const PassiveAggressiveTranslator = () => {
           </div>
         </div>
         
-        <p className="text-sm text-gray-500 text-center italic">
+        <p className="text-sm text-gray-500 text-center">
         <a target="_blank" href="https://jordan-v1u1riy0.scoreapp.com/">Find out how your team is really doing &rarr;</a>
+        </p>
+        <p className="text-sm text-gray-500 text-center italic">
+          Tool brought to you by <a href="https://adarose.com" target="_blank">AdaRose</a>.
         </p>
       </div>
     </div>
